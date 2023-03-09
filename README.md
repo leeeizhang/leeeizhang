@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I am Ryan! 👋
+
+My name is Ryan (张磊), majoring in *Computer Science and Technology*. My primary research focuses on building ***distributed, continual, and efficient ML edge-server system***. I am also interested in *computer vision*, *big-data system*, and *large-scale ML system*. Currently, I am a master student at [@MSNLAB](https://github.com/MSNLAB) in NJUST.
+
+My Motto: *A doer living in moment, define the pioneering resolve with every line of code. 🚀*
+
+- 📫 How to reach me: 
+[[Email]](mailto:RyanCheung98@163.com), 
+[[WeChat]](https://raw.githubusercontent.com/MagicDevilZhang/MagicDevilZhang/assets/wechat_qrcode.jpg), 
+[[LinkedIn]](https://www.linkedin.com/in/ryan-cheung-2722b6199/), 
+[[Twitter]](https://twitter.com/MagicDevilZhang)
 
 <!--
 **MagicDevilZhang/MagicDevilZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
