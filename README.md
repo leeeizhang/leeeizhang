@@ -1,6 +1,6 @@
 ### Hi there, I am Ryan! 👋
 
-My name is Ryan (張磊), majoring in *Computer Science and Engineering*. My primary research focuses on building ***distributed, continual, and efficient ML edge-server system***. I am also interested in *computer vision*, *big-data system*, and *large-scale ML system*. Currently, I am a master student at [@MSNLAB](https://github.com/MSNLAB) in NJUST.
+My name is Ryan (张磊), majoring in *Computer Science and Engineering*. My primary research focuses on building ***distributed, continual, and efficient ML edge-server system***. I am also interested in *computer vision*, *big-data system*, and *large-scale ML system*. Currently, I am a master student at [@MSNLAB](https://github.com/MSNLAB) in NJUST.
 
 - ✒️ My motto: *A doer living in moment, define the pioneering resolve with every line of code. 🚀*
 
