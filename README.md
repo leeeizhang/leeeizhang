@@ -5,7 +5,7 @@ My name is Ryan (张磊), majoring in *Computer Science and Engineering*. My pri
 - ✒️ My motto: *A doer living in moment, define the pioneering resolve with every line of code. 🚀*
 
 - 📫 Reach me: 
-[[Email]](mailto:RyanCheung98@163.com), 
+[[Email]](mailto:leizhang.real@gmail.com), 
 [[WeChat]](https://raw.githubusercontent.com/MagicDevilZhang/MagicDevilZhang/assets/wechat_qrcode.jpg), 
 [[LinkedIn]](https://www.linkedin.com/in/ryan-cheung-2722b6199/), 
 [[Twitter]](https://twitter.com/MagicDevilZhang)
