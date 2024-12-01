@@ -7,7 +7,6 @@ My name is Ryan (张磊), majoring in *Computer Science and Engineering*. My pri
 - 📫 Reach me: 
 [[Email]](mailto:leizhang.real@gmail.com), 
 [[WeChat]](https://raw.githubusercontent.com/MagicDevilZhang/MagicDevilZhang/assets/wechat_qrcode.jpg), 
-[[LinkedIn]](https://www.linkedin.com/in/ryan-cheung-2722b6199/), 
 [[Twitter]](https://twitter.com/MagicDevilZhang)
 
 <!--
