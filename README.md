@@ -4,9 +4,7 @@ My name is Ryan (张磊), focusing on building ***distributed, continual, and ef
 
 - ✒️ My motto: *Be a doer living in moment, define the pioneering resolve with every line of code. 🚀*
 
-- 📫 Reach me: 
-[[Email]](mailto:leizhang.real@gmail.com), 
-[[WeChat]](https://raw.githubusercontent.com/MagicDevilZhang/MagicDevilZhang/assets/wechat_qrcode.jpg), 
+- 📫 Reach me: [[Email]](mailto:leizhang.real@gmail.com)
 
 <!--
 **MagicDevilZhang/MagicDevilZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
